@@ -1,0 +1,29 @@
+
+/*estilos para contactenos */
+#contactenos{
+        width: 90%;
+        margin: 0 5% 0 5%;
+}
+.contacto{
+	margin:10px;
+}
+.titleContacto{
+	font-size:24px;
+	color:#F90;
+	text-align:left;
+}
+.inpCont{
+        width: 300px;
+}
+#mensaje{
+	height: 100px;
+}
+.txtCont{
+	width:10z0px;
+	display:block;
+	text-align:right;
+        margin-right: 10px;
+}
+#mensajeContacto div{
+    padding: 5px;
+}
